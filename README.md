@@ -21,8 +21,14 @@
   <img src="certs/AURAK - Version Control Systems Workshop.png" alt="4" width="260" height="180" />
   <img src="certs/AURAK - Digital Design Workshop.png" alt="5" width="260" height="180" />
   <img src="certs/Google - Digital Marketing Online Course.png" alt="6" width="260" height="180" />
-  <img src="certs/Dubai Future Foundation - Foundations of Emerging Technologies Online Course.png" alt="4" width="260" height="180" />
-  <img src="certs/Dubai Future Foundation - Foundations of Future's Literacy Online Course.png" alt="5" width="260" height="180" />
+  <img src="certs/UAE Codes - Participation.png" alt="4" width="260" height="180" />
+  <img src="certs/TDRA - Agile Management Online Course.png" alt="6" width="260" height="180" />
+  <img src="certs/TDRA - Analytical Thinking and Innovation Online Course.png" alt="4" width="260" height="180" />
+  <img src="certs/TDRA - Leadership and Social Influence Online Course.png" alt="5" width="260" height="180" />
+  <img src="certs/TDRA - The Innovator's DNA Online Course.png" alt="6" width="260" height="180" />
+  <img src="certs/TDRA - Creative Problem Solving Online Course.png" alt="4" width="260" height="180" />
+  <img src="certs/TDRA - The Fundamentals of Web 3.0 Online Course.png" alt="5" width="260" height="180" />
+  <img src="certs/TDRA - Introduction To Future Thinking.png" alt="6" width="260" height="180" />
   <img src="certs/Fundaula - Fundamentals of Cybersecurity 1 Online Course.png" alt="6" width="260" height="180" />
   <img src="certs/Fundaula - Fundamentals of Cybersecurity 2 Online Course.png" alt="4" width="260" height="180" />
   <img src="certs/Fundaula - Pentesting Online Course.png" alt="5" width="260" height="180" />
@@ -35,21 +41,11 @@
   <img src="certs/Fundaula - Compliance with Rules and Tasks Online Course.png" alt="6" width="260" height="180" />
   <img src="certs/Fundaula - Client Focus Online Course.png" alt="4" width="260" height="180" />
   <img src="certs/Fundaula - Focus on Results Online Course.png" alt="5" width="260" height="180" />
-  <img src="certs/TDRA - Agile Management Online Course.png" alt="6" width="260" height="180" />
-  <img src="certs/TDRA - Analytical Thinking and Innovation Online Course.png" alt="4" width="260" height="180" />
-  <img src="certs/TDRA - Leadership and Social Influence Online Course.png" alt="5" width="260" height="180" />
-  <img src="certs/TDRA - The Innovator's DNA Online Course.png" alt="6" width="260" height="180" />
-  <img src="certs/TDRA - Creative Problem Solving Online Course.png" alt="4" width="260" height="180" />
-  <img src="certs/TDRA - The Fundamentals of Web 3.0 Online Course.png" alt="5" width="260" height="180" />
-  <img src="certs/TDRA - Introduction To Future Thinking.png" alt="6" width="260" height="180" />
-  <img src="certs/UAE Codes - Participation.png" alt="4" width="260" height="180" />
   <img src="certs/Arab Youth Council for Climate Change - Climate Change Literacy Online Course.png" alt="5" width="260" height="180" />
+  <img src="certs/Dubai Future Foundation - Foundations of Emerging Technologies Online Course.png" alt="4" width="260" height="180" />
+  <img src="certs/Dubai Future Foundation - Foundations of Future's Literacy Online Course.png" alt="5" width="260" height="180" />
   <img src="certs/DataCamp - Introduction to Python Online Course.png" alt="4" width="260" height="180" />
   <img src="certs/DataCamp - Intermediate Python Online Course.png" alt="5" width="260" height="180" />
   <img src="certs/DataCamp - Introduction to Network Analysis in Python Online Course.png" alt="6" width="260" height="180" />
   <img src="certs/DataCamp - Intermediate Network Analysis in Python Online Course.png" alt="4" width="260" height="180" />
 </p>
-
-
-
-
